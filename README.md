@@ -34,7 +34,7 @@
 - [x] [영상 자료에 관하여](#영상-자료에-관하여)
 - [x] [인터뷰 과정 & 전반적인 인터뷰 준비 과정](#인터뷰-과정--전반적인-인터뷰-준비-과정)
 - [x] [인터뷰를 위한 언어 고르기](#인터뷰를-위한-언어-고르기)
-- [도서 목록](#도서-목록)
+- [x] [도서 목록](#도서-목록)
 - [시작하기 전에](#시작하기-전에)
 - [다루지 않을 것](#다루지-않을-것)
 - [먼저 알아야 할 지식](#먼저-알아야-할-지식)
@@ -244,6 +244,8 @@
 
 ## 인터뷰를 위한 언어 고르기
 
+<details>
+
 인터뷰때에 당신이 쓰기에 편한 언어를 선택해도 되지만, 큰 기업들은 보통 아래의 언어들을 선택합니다.
 
 - C++
@@ -260,6 +262,8 @@
 언어 선택을 도움이 될 만한 읽을 거리들
 - http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
+
+</details>
 
 [프로그래밍 언어 참고목록](programming-language-resources.md)
 
@@ -279,7 +283,7 @@
     - JAVA 문제의 답변을 위해서
 
 <details>
-<summary>만일 당신이 많은 여유 시간이 있다면:</summary>
+<summary>여유가 있다면?</summary>
 
 - [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
     - 모든 코드가 C++로 되어있다, 만일 당신의 인터뷰에서 C++를 사용하길 고려한다면 정말 좋은 책이다.
@@ -297,7 +301,6 @@
     - 이 책의 저자는 HLA를 발명했습니다. 그래서 회의적인 시선으로 HLA에 대해 언급하고 예로 듭니다. 널리 읽히지는 않지만, 어셈블리가 어떻게 생겼는 지를 보여주는 좋은 예입니다.
     - 이 장들은 당신에게 탄탄한 기초를 세워줄 것입니다:
       <details>
-      <summary>......</summary>
 
         - Chapter 2 - Numeric Representation
         - Chapter 3 - Binary Arithmetic and Bit Operations
@@ -312,7 +315,7 @@
       </details>
 
 <details>
-<summary>만약에 시간적 여유가 좀 더 있다면 아래 서적을 읽어보는 것을 권유합니다.</summary>
+<summary>여유가 있다면?</summary>
 
 - [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
     - For a richer, more up-to-date (2011), but longer treatment
@@ -327,9 +330,7 @@
 
 검토(review)를 좋아하지 않는다면, **이 프로젝트의 모든 영상은 생략해도 됩니다.**
 
-[Additional language-specific resources here.](programming-language-resources.md)
-
-### C++
+[추가적인 언어들은 여기에.](programming-language-resources.md)
 
 <details>
 <summary>C++</summary>
@@ -342,8 +343,6 @@
 C++에 대한 더 나은 추천 책이 있다면 알려주십시오. 포괄적인 자료를 찾고 있습니다.
 
 </details>
-
-### Java
 
 <details>
 <summary>Java</summary>
@@ -362,8 +361,6 @@ C++에 대한 더 나은 추천 책이 있다면 알려주십시오. 포괄적�
 
 </details>
 
-### Python
-
 <details>
 <summary>Python</summary>
 
@@ -377,10 +374,11 @@ C++에 대한 더 나은 추천 책이 있다면 알려주십시오. 포괄적�
 
 ### 선택 도서
 
+<details>
+
 **어떤 사람들은 이 책들을 추천한다. 하지만 만약 당신이 소프트웨어 엔지니어링 분야에 오랜 경험이 있고, 그로 인해 훨씬 더 어려운 인터뷰를 볼 것이라 생각하지 않는다면, 나는 이 책들을 공부하는 것이 너무 과하다고 생각한다:**
 
 <details>
-<summary>Optional Books</summary>
 
 - [ ] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
     - As a review and problem recognition
@@ -418,6 +416,8 @@ C++에 대한 더 나은 추천 책이 있다면 알려주십시오. 포괄적�
 
 </details>
 
+</details>
+
 ## 시작하기 전에
 
 이 문서는 몇 달간 계속 업데이트 되고 있으며, 그런 이유로, 내가 감당할 수 없어지기 시작한 듯하다.
@@ -430,7 +430,7 @@ C++에 대한 더 나은 추천 책이 있다면 알려주십시오. 포괄적�
 
 꼭 읽고 내가 한 실수들을 반복하지 않길 바란다.
 
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
+[컴퓨터과학 지식을 유지하는 법](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
 ### 2. Flashcard를 사용하자.
 
