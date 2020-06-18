@@ -263,13 +263,15 @@
 - http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 - http://blog.codingforinterviews.com/best-programming-language-jobs/
 
-</details>
-
 [프로그래밍 언어 참고목록](programming-language-resources.md)
 
 제가 공부하고 있는 C, C++, Python 강의를 아래서 볼 수 있습니다. 아래를 보시면 관련된 책들이 몇 개 있습니다.
 
+</details>
+
 ## 도서 목록
+
+<details>
 
 아래의 목록은 내가 공부했던 책들보다는 적다. 당신의 시간을 절약하기 위해 몇몇 책들은 생략하였다.
 
@@ -374,8 +376,6 @@ C++에 대한 더 나은 추천 책이 있다면 알려주십시오. 포괄적�
 
 ### 선택 도서
 
-<details>
-
 **어떤 사람들은 이 책들을 추천한다. 하지만 만약 당신이 소프트웨어 엔지니어링 분야에 오랜 경험이 있고, 그로 인해 훨씬 더 어려운 인터뷰를 볼 것이라 생각하지 않는다면, 나는 이 책들을 공부하는 것이 너무 과하다고 생각한다:**
 
 <details>
@@ -419,6 +419,8 @@ C++에 대한 더 나은 추천 책이 있다면 알려주십시오. 포괄적�
 </details>
 
 ## 시작하기 전에
+
+<details>
 
 이 문서는 몇 달간 계속 업데이트 되고 있으며, 그런 이유로, 내가 감당할 수 없어지기 시작한 듯하다.
 
@@ -466,13 +468,19 @@ Anki format의 내 flashcard 데이터베이스: https://ankiweb.net/shared/info
 
 주의를 산만하게 만드는 많은 것이 있으며, 이것들은 우리의 귀중한 시간을 뺏어간다. 주의를 집중하는 것은 힘든 일이다.
 
+</details>
+
 ## 다루지 않을 것
+
+<details>
 
 이 기술들은 널리 퍼져 있는 기술이지만, 여기서 다루는 부분은 아닙니다:
 
 - SQL
 - Javascript
 - HTML, CSS, 그리고 다른 프론트엔드 기술들
+
+</details>
 
 ## 하루 하루의 계획
 
