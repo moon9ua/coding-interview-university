@@ -1,4 +1,4 @@
-# 코딩 인터뷰 대학(Coding Interview University)
+# 코딩 인터뷰 대학 (Coding Interview University)
 
 > 나는 원래 이것을 소프트웨어 엔지니어가 되기 위한 짧은 연구 목록으로 만들었다.
 > 그러나 지금 당신이 볼수 있듯이 이 목록은 매우 커졌다. 이 목록을 숙지 한 후,
@@ -10,7 +10,7 @@
 >
 > *행운을 빈다!*
 
----
+
 
 ## 목차
 
@@ -541,10 +541,7 @@ Anki format의 내 flashcard 데이터베이스: https://ankiweb.net/shared/info
 
 ## 알고리즘 복잡도 / Big-O / 점근적 분석
 
-<details>
-<summary>Algorithmic complexity / Big-O / Asymptotic analysis</summary>
-
-- 구현할 것은 없다.
+구현할 것은 없다.
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
@@ -563,15 +560,11 @@ Anki format의 내 flashcard 데이터베이스: https://ankiweb.net/shared/info
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
-
-    일부 강의가 너무 수학적이라면, 아래로 가서 이산 수학에 대한 동영상을 보며 배경 지식을 쌓아보세요.
+일부 강의가 너무 수학적이라면, 아래로 가서 이산 수학에 대한 동영상을 보며 배경 지식을 쌓아보세요.
 
 </details>
 
 ## 자료구조
-
-<details>
-<summary>Data Structures</summary>
 
 - ### 배열
     - 자동 리사이징 벡터 구현하기
@@ -697,8 +690,6 @@ Anki format의 내 flashcard 데이터베이스: https://ankiweb.net/shared/info
         - exists(key)
         - get(key)
         - remove(key)
-
-</details>
 
 ## 추가 지식
 
